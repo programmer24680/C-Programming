@@ -2,6 +2,13 @@
 # include <stdlib.h>
 # include <time.h>
 
+
+
+
+
+
+
+
 int main()
 {
 	int actual_num;
